@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #221b1b;
+    color: antiquewhite;
+}
+.tabel {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 40px auto;
+}
+.tabel th, .tabel td {
+    padding: 10px;
+    text-align: center;
+}
